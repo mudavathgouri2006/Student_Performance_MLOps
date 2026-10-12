@@ -1,0 +1,12 @@
+
+.venv/
+__pycache__/
+*.pyc
+
+mlruns/
+mlflow.db
+
+airflow/logs/
+airflow-build.log
+
+.env
